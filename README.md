@@ -1,1 +1,3 @@
-# spring-boot-websocket-chat
+## Spring Boot WebSocket Chat Appplication
+
+
